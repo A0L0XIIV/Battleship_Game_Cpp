@@ -1,0 +1,9 @@
+
+*.db
+*.opendb
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
+Battleship_Game/.vs/Battleship_Game/v16/.suo

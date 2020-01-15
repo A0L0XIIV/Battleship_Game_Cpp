@@ -7,3 +7,9 @@
 *.filters
 *.user
 Battleship_Game/.vs/Battleship_Game/v16/.suo
+*.ilk
+*.log
+*.obj
+*.pdb
+*.tlog
+*.idb
